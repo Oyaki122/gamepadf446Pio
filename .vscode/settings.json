@@ -1,0 +1,14 @@
+{
+  "actionButtons": {
+    "commands": [
+      {
+        "name": "CubeMX",
+        "command": "open pinmap.ioc"
+      },
+      {
+        "name": "Generate",
+        "command": "stm32pio generate"
+      },
+    ]
+  }
+}
